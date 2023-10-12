@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" alt="US" width="50" height="50" class="text-align: botton;"> English 
+# <img src="https://cdn-icons-png.flaticon.com/512/206/206626.png" alt="US" width="50" height="50" class="text-align: botton;"> English 
 Welcome to my digital world! 👋 I'm Fernando Amorim, a passionate developer and technology enthusiast.
 In this space, you'll find a collection of my latest and most exciting projects.
 From sleek front-end designs to robust back-end solutions, I am constantly exploring new technologies to create innovative digital experiences.
