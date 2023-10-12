@@ -20,7 +20,7 @@ LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=
 
 Feel free to dive into my repositories, and if you find something that interests you or if you need assistance with a project, don't hesitate to reach out. Let's create something amazing together! 🚀
 
-# <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" alt="Brasil" width="50" height="50" class=""text-align: botton;"> Português
+# <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" alt="Brasil" width="50" height="50" class="text-align: botton;"> Português
 Bem-vindo ao meu mundo digital! 👋 Sou Fernando Amorim, um apaixonado desenvolvedor e entusiasta da tecnologia. 
 Neste espaço, você encontrará uma coleção dos meus projetos mais recentes e empolgantes. 
 Desde elegantes designs front-end até robustas soluções back-end, estou constantemente explorando novas tecnologias para criar experiências digitais inovadoras.
