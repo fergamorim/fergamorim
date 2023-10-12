@@ -1,4 +1,4 @@
-# ![Bandeira dos Estados Unidos](https://emojicombos.com/emoji/Blob_us/) English
+# English 
 Welcome to my digital world! 👋 I'm Fernando Amorim, a passionate developer and technology enthusiast.
 In this space, you'll find a collection of my latest and most exciting projects.
 From sleek front-end designs to robust back-end solutions, I am constantly exploring new technologies to create innovative digital experiences.
@@ -20,7 +20,7 @@ LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=
 
 Feel free to dive into my repositories, and if you find something that interests you or if you need assistance with a project, don't hesitate to reach out. Let's create something amazing together! 🚀
 
-# ![Bandeira do Brasil](https://emojicombos.com/emoji/Blob_brazil/) Português
+# !(https://cdn-icons-png.flaticon.com/512/330/330430.png) Português
 Bem-vindo ao meu mundo digital! 👋 Sou Fernando Amorim, um apaixonado desenvolvedor e entusiasta da tecnologia. 
 Neste espaço, você encontrará uma coleção dos meus projetos mais recentes e empolgantes. 
 Desde elegantes designs front-end até robustas soluções back-end, estou constantemente explorando novas tecnologias para criar experiências digitais inovadoras.
